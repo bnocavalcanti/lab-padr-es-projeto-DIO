@@ -1,1 +1,1 @@
-# lab-padr-es-projeto-DIO
+# lab-padroes-projeto-DIO
